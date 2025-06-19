@@ -1,0 +1,329 @@
+2025-06-19 14:51:53,850 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 14:51:53,880 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 14:51:54,941 - utils - INFO - logger.py:109 - Starting Complete Analysis Pipeline
+2025-06-19 14:51:55,440 - utils - INFO - logger.py:109 - Loaded 147 URLs from Input.xlsx
+2025-06-19 15:06:05,146 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241017
+2025-06-19 15:06:05,150 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241018
+2025-06-19 15:06:05,153 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241019
+2025-06-19 15:06:05,158 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241020
+2025-06-19 15:06:05,425 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241017 in 0.28s
+2025-06-19 15:06:05,483 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241018 in 0.33s
+2025-06-19 15:06:05,492 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241021
+2025-06-19 15:06:05,529 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241022
+2025-06-19 15:06:05,572 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241020 in 0.41s
+2025-06-19 15:06:05,597 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241021 in 0.11s
+2025-06-19 15:06:05,607 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241024
+2025-06-19 15:06:05,573 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241019 in 0.42s
+2025-06-19 15:06:05,604 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241023
+2025-06-19 15:06:05,590 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241022 in 0.06s
+2025-06-19 15:06:05,623 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241024 in 0.02s
+2025-06-19 15:06:05,627 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241025
+2025-06-19 15:06:05,643 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241026
+2025-06-19 15:06:05,681 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241025 in 0.05s
+2025-06-19 15:06:05,700 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241028
+2025-06-19 15:06:05,664 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241027
+2025-06-19 15:06:05,667 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241023 in 0.06s
+2025-06-19 15:06:05,728 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241028 in 0.03s
+2025-06-19 15:06:05,735 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241026 in 0.09s
+2025-06-19 15:06:05,747 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241027 in 0.08s
+2025-06-19 15:06:05,751 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241029
+2025-06-19 15:06:05,759 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241030
+2025-06-19 15:06:05,759 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241031
+2025-06-19 15:06:05,772 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241032
+2025-06-19 15:06:05,795 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241029 in 0.04s
+2025-06-19 15:06:05,844 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241033
+2025-06-19 15:06:05,806 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241030 in 0.05s
+2025-06-19 15:06:05,879 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241031 in 0.12s
+2025-06-19 15:06:05,914 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241032 in 0.14s
+2025-06-19 15:06:05,919 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241033 in 0.07s
+2025-06-19 15:06:05,925 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241034
+2025-06-19 15:06:05,929 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241035
+2025-06-19 15:06:05,935 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241036
+2025-06-19 15:06:05,940 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241037
+2025-06-19 15:06:05,947 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241034 in 0.02s
+2025-06-19 15:06:05,978 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241035 in 0.05s
+2025-06-19 15:06:06,005 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241039
+2025-06-19 15:06:05,994 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241036 in 0.06s
+2025-06-19 15:06:05,999 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241038
+2025-06-19 15:06:05,992 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241037 in 0.05s
+2025-06-19 15:06:06,021 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241039 in 0.02s
+2025-06-19 15:06:06,047 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241041
+2025-06-19 15:06:06,040 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241038 in 0.04s
+2025-06-19 15:06:06,028 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241040
+2025-06-19 15:06:06,053 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241042
+2025-06-19 15:06:06,060 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241041 in 0.01s
+2025-06-19 15:06:06,085 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241043
+2025-06-19 15:06:06,094 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241040 in 0.07s
+2025-06-19 15:06:06,114 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241042 in 0.06s
+2025-06-19 15:06:06,116 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241044
+2025-06-19 15:06:06,130 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241045
+2025-06-19 15:06:06,137 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241046
+2025-06-19 15:06:06,140 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241043 in 0.06s
+2025-06-19 15:06:06,166 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241044 in 0.05s
+2025-06-19 15:06:06,190 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241045 in 0.06s
+2025-06-19 15:06:06,202 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241046 in 0.07s
+2025-06-19 15:06:06,222 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241050
+2025-06-19 15:06:06,213 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241048
+2025-06-19 15:06:06,216 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241049
+2025-06-19 15:06:06,206 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241047
+2025-06-19 15:06:06,244 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241050 in 0.02s
+2025-06-19 15:06:06,284 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241051
+2025-06-19 15:06:06,260 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241048 in 0.05s
+2025-06-19 15:06:06,295 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241047 in 0.09s
+2025-06-19 15:06:06,331 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241049 in 0.11s
+2025-06-19 15:06:06,337 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241052
+2025-06-19 15:06:06,343 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241051 in 0.06s
+2025-06-19 15:06:06,348 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241053
+2025-06-19 15:06:06,351 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241054
+2025-06-19 15:06:06,383 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241052 in 0.05s
+2025-06-19 15:06:06,384 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241055
+2025-06-19 15:06:06,411 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241053 in 0.06s
+2025-06-19 15:06:06,448 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241057
+2025-06-19 15:06:06,432 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241056
+2025-06-19 15:06:06,432 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241054 in 0.08s
+2025-06-19 15:06:06,525 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241058
+2025-06-19 15:06:06,541 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241055 in 0.16s
+2025-06-19 15:06:06,555 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241059
+2025-06-19 15:06:06,547 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241057 in 0.10s
+2025-06-19 15:06:06,552 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241058 in 0.03s
+2025-06-19 15:06:06,544 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241056 in 0.11s
+2025-06-19 15:06:06,582 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241059 in 0.03s
+2025-06-19 15:06:06,583 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241060
+2025-06-19 15:06:06,591 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241061
+2025-06-19 15:06:06,597 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241062
+2025-06-19 15:06:06,603 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241063
+2025-06-19 15:06:06,615 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241060 in 0.03s
+2025-06-19 15:06:06,633 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241061 in 0.04s
+2025-06-19 15:06:06,650 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241063 in 0.05s
+2025-06-19 15:06:06,651 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241064
+2025-06-19 15:06:06,665 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241062 in 0.07s
+2025-06-19 15:06:06,666 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241065
+2025-06-19 15:06:06,671 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241066
+2025-06-19 15:06:06,695 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241067
+2025-06-19 15:06:06,688 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241064 in 0.04s
+2025-06-19 15:06:06,711 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241065 in 0.04s
+2025-06-19 15:06:06,720 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241066 in 0.05s
+2025-06-19 15:06:06,733 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241067 in 0.04s
+2025-06-19 15:06:06,736 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241068
+2025-06-19 15:06:06,743 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241069
+2025-06-19 15:06:06,746 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241070
+2025-06-19 15:06:06,746 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241071
+2025-06-19 15:06:06,770 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241068 in 0.03s
+2025-06-19 15:06:06,772 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241069 in 0.03s
+2025-06-19 15:06:06,800 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241072
+2025-06-19 15:06:06,803 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241070 in 0.06s
+2025-06-19 15:06:06,805 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241071 in 0.06s
+2025-06-19 15:06:06,812 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241073
+2025-06-19 15:06:06,829 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241074
+2025-06-19 15:06:06,831 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241075
+2025-06-19 15:06:06,828 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241072 in 0.03s
+2025-06-19 15:06:06,876 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241076
+2025-06-19 15:06:06,853 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241074 in 0.02s
+2025-06-19 15:06:06,886 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241077
+2025-06-19 15:06:06,840 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241073 in 0.03s
+2025-06-19 15:06:06,899 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241077 in 0.01s
+2025-06-19 15:06:06,868 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241075 in 0.04s
+2025-06-19 15:06:06,881 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241076 in 0.01s
+2025-06-19 15:06:06,900 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241078
+2025-06-19 15:06:06,910 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241079
+2025-06-19 15:06:06,921 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241080
+2025-06-19 15:06:06,921 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241081
+2025-06-19 15:06:06,934 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241078 in 0.03s
+2025-06-19 15:06:06,939 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241079 in 0.03s
+2025-06-19 15:06:06,981 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241082
+2025-06-19 15:06:06,981 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241081 in 0.06s
+2025-06-19 15:06:06,944 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241080 in 0.02s
+2025-06-19 15:06:06,994 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241083
+2025-06-19 15:06:07,009 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241082 in 0.03s
+2025-06-19 15:06:07,013 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241084
+2025-06-19 15:06:07,019 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241085
+2025-06-19 15:06:07,029 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241086
+2025-06-19 15:06:07,043 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241084 in 0.03s
+2025-06-19 15:06:07,065 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241087
+2025-06-19 15:06:07,050 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241085 in 0.03s
+2025-06-19 15:06:07,062 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241086 in 0.03s
+2025-06-19 15:06:07,053 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241083 in 0.06s
+2025-06-19 15:06:07,095 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241090
+2025-06-19 15:06:07,088 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241087 in 0.02s
+2025-06-19 15:06:07,110 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241091
+2025-06-19 15:06:07,084 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241088
+2025-06-19 15:06:07,107 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241090 in 0.01s
+2025-06-19 15:06:07,092 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241089
+2025-06-19 15:06:07,129 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241091 in 0.02s
+2025-06-19 15:06:07,144 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241088 in 0.06s
+2025-06-19 15:06:07,147 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241092
+2025-06-19 15:06:07,160 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241089 in 0.07s
+2025-06-19 15:06:07,163 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241093
+2025-06-19 15:06:07,170 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241094
+2025-06-19 15:06:07,182 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241092 in 0.03s
+2025-06-19 15:06:07,184 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241095
+2025-06-19 15:06:07,198 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241093 in 0.03s
+2025-06-19 15:06:07,206 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241096
+2025-06-19 15:06:07,203 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241094 in 0.03s
+2025-06-19 15:06:07,221 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241095 in 0.04s
+2025-06-19 15:06:07,227 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241097
+2025-06-19 15:06:07,239 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241098
+2025-06-19 15:06:07,244 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241096 in 0.04s
+2025-06-19 15:06:07,270 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241098 in 0.03s
+2025-06-19 15:06:07,264 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241097 in 0.04s
+2025-06-19 15:06:07,247 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241099
+2025-06-19 15:06:07,274 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241101
+2025-06-19 15:06:07,273 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241100
+2025-06-19 15:06:07,281 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241102
+2025-06-19 15:06:07,292 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241099 in 0.05s
+2025-06-19 15:06:07,306 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241101 in 0.03s
+2025-06-19 15:06:07,313 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241100 in 0.04s
+2025-06-19 15:06:07,323 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241103
+2025-06-19 15:06:07,320 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241102 in 0.04s
+2025-06-19 15:06:07,324 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241104
+2025-06-19 15:06:07,330 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241105
+2025-06-19 15:06:07,336 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241103 in 0.01s
+2025-06-19 15:06:07,371 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241107
+2025-06-19 15:06:07,356 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241104 in 0.03s
+2025-06-19 15:06:07,370 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241105 in 0.04s
+2025-06-19 15:06:07,342 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241106
+2025-06-19 15:06:07,393 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241109
+2025-06-19 15:06:07,384 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241108
+2025-06-19 15:06:07,382 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241107 in 0.01s
+2025-06-19 15:06:07,448 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241110
+2025-06-19 15:06:07,432 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241109 in 0.04s
+2025-06-19 15:06:07,401 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241106 in 0.06s
+2025-06-19 15:06:07,455 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241108 in 0.07s
+2025-06-19 15:06:07,493 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241111
+2025-06-19 15:06:07,483 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241110 in 0.04s
+2025-06-19 15:06:07,499 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241112
+2025-06-19 15:06:07,502 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241113
+2025-06-19 15:06:07,511 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241111 in 0.02s
+2025-06-19 15:06:07,516 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241114
+2025-06-19 15:06:07,549 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241115
+2025-06-19 15:06:07,543 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241113 in 0.04s
+2025-06-19 15:06:07,523 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241112 in 0.02s
+2025-06-19 15:06:07,557 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241114 in 0.04s
+2025-06-19 15:06:07,579 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241117
+2025-06-19 15:06:07,571 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241116
+2025-06-19 15:06:07,569 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241115 in 0.02s
+2025-06-19 15:06:07,586 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241118
+2025-06-19 15:06:07,591 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241117 in 0.01s
+2025-06-19 15:06:07,599 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241116 in 0.03s
+2025-06-19 15:06:07,622 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241121
+2025-06-19 15:06:07,603 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241119
+2025-06-19 15:06:07,616 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241120
+2025-06-19 15:06:07,610 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241118 in 0.02s
+2025-06-19 15:06:07,650 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241119 in 0.05s
+2025-06-19 15:06:07,654 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241121 in 0.03s
+2025-06-19 15:06:07,673 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241122
+2025-06-19 15:06:07,672 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241120 in 0.06s
+2025-06-19 15:06:07,677 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241123
+2025-06-19 15:06:07,683 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241124
+2025-06-19 15:06:07,697 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241122 in 0.02s
+2025-06-19 15:06:07,707 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241125
+2025-06-19 15:06:07,717 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241123 in 0.04s
+2025-06-19 15:06:07,727 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241126
+2025-06-19 15:06:07,721 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241124 in 0.04s
+2025-06-19 15:06:07,751 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241128
+2025-06-19 15:06:07,735 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241127
+2025-06-19 15:06:07,747 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241126 in 0.02s
+2025-06-19 15:06:07,778 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241129
+2025-06-19 15:06:07,733 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241125 in 0.03s
+2025-06-19 15:06:07,764 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241128 in 0.01s
+2025-06-19 15:06:07,775 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241127 in 0.04s
+2025-06-19 15:06:07,797 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241131
+2025-06-19 15:06:07,793 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241130
+2025-06-19 15:06:07,790 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241129 in 0.01s
+2025-06-19 15:06:07,829 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241133
+2025-06-19 15:06:07,816 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241131 in 0.02s
+2025-06-19 15:06:07,805 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241132
+2025-06-19 15:06:07,825 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241130 in 0.03s
+2025-06-19 15:06:07,867 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241135
+2025-06-19 15:06:07,873 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241135 in 0.01s
+2025-06-19 15:06:07,881 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241136
+2025-06-19 15:06:07,850 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241134
+2025-06-19 15:06:07,866 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241132 in 0.06s
+2025-06-19 15:06:07,863 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241133 in 0.03s
+2025-06-19 15:06:07,902 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241136 in 0.02s
+2025-06-19 15:06:07,922 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241137
+2025-06-19 15:06:07,931 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241138
+2025-06-19 15:06:07,931 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241139
+2025-06-19 15:06:07,943 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241137 in 0.02s
+2025-06-19 15:06:07,971 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241140
+2025-06-19 15:06:07,959 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241138 in 0.03s
+2025-06-19 15:06:07,956 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241134 in 0.11s
+2025-06-19 15:06:07,994 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241141
+2025-06-19 15:06:07,960 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241139 in 0.03s
+2025-06-19 15:06:08,026 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241143
+2025-06-19 15:06:08,007 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241142
+2025-06-19 15:06:08,026 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241141 in 0.03s
+2025-06-19 15:06:07,985 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241140 in 0.01s
+2025-06-19 15:06:08,054 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241142 in 0.05s
+2025-06-19 15:06:08,060 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241144
+2025-06-19 15:06:08,058 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241143 in 0.03s
+2025-06-19 15:06:08,078 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241144 in 0.02s
+2025-06-19 15:06:08,070 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241146
+2025-06-19 15:06:08,064 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241145
+2025-06-19 15:06:08,088 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241148
+2025-06-19 15:06:08,087 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241147
+2025-06-19 15:06:08,118 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241145 in 0.05s
+2025-06-19 15:06:08,103 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241146 in 0.03s
+2025-06-19 15:06:08,126 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241148 in 0.04s
+2025-06-19 15:06:08,133 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241147 in 0.05s
+2025-06-19 15:06:08,153 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241152
+2025-06-19 15:06:08,141 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241150
+2025-06-19 15:06:08,142 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241151
+2025-06-19 15:06:08,140 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241149
+2025-06-19 15:06:08,159 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241152 in 0.01s
+2025-06-19 15:06:08,171 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241150 in 0.03s
+2025-06-19 15:06:08,179 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241151 in 0.04s
+2025-06-19 15:06:08,189 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241149 in 0.05s
+2025-06-19 15:06:08,201 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241153
+2025-06-19 15:06:08,202 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241154
+2025-06-19 15:06:08,208 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241155
+2025-06-19 15:06:08,209 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241156
+2025-06-19 15:06:08,216 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241153 in 0.02s
+2025-06-19 15:06:08,223 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241154 in 0.02s
+2025-06-19 15:06:08,237 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241155 in 0.03s
+2025-06-19 15:06:08,252 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241157
+2025-06-19 15:06:08,257 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241158
+2025-06-19 15:06:08,257 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241156 in 0.05s
+2025-06-19 15:06:08,264 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241159
+2025-06-19 15:06:08,290 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241160
+2025-06-19 15:06:08,293 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241158 in 0.04s
+2025-06-19 15:06:08,298 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241157 in 0.05s
+2025-06-19 15:06:08,320 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241159 in 0.06s
+2025-06-19 15:06:08,354 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241160 in 0.06s
+2025-06-19 15:06:08,371 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241163
+2025-06-19 15:06:08,347 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241161
+2025-06-19 15:06:08,366 - utils - INFO - logger.py:109 - Starting Text analysis for Netclan20241162
+2025-06-19 15:06:08,382 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241163 in 0.01s
+2025-06-19 15:06:08,387 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241161 in 0.04s
+2025-06-19 15:06:08,393 - utils - INFO - logger.py:109 - Completed Text analysis for Netclan20241162 in 0.03s
+2025-06-19 15:06:08,576 - utils - INFO - logger.py:109 - Results saved to output_results.xlsx
+2025-06-19 15:06:08,590 - utils - INFO - logger.py:109 - Results saved to output_results.csv
+2025-06-19 15:06:08,603 - utils - INFO - logger.py:109 - Completed Complete Analysis Pipeline in 853.66s
+2025-06-19 15:13:43,469 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:13:43,474 - utils - INFO - logger.py:109 - Starting Text analysis for TEST001
+2025-06-19 15:13:43,499 - utils - INFO - logger.py:109 - Completed Text analysis for TEST001 in 0.03s
+2025-06-19 15:13:43,512 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:13:43,539 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:13:43,556 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:13:43,569 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:13:43,741 - utils - INFO - logger.py:109 - Loaded 2 URLs from /tmp/tmp0ucy_954.xlsx
+2025-06-19 15:13:43,750 - utils - INFO - logger.py:109 - Results saved to /tmp/tmpokakd7cf/test_results.xlsx
+2025-06-19 15:13:43,752 - utils - INFO - logger.py:109 - Results saved to /tmp/tmpokakd7cf/test_results.csv
+2025-06-19 15:13:43,773 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:13:43,777 - utils - INFO - logger.py:109 - Starting Text analysis for INTEGRATION001
+2025-06-19 15:13:43,780 - utils - INFO - logger.py:109 - Completed Text analysis for INTEGRATION001 in 0.00s
+2025-06-19 15:13:43,795 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:31,764 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:31,775 - utils - INFO - logger.py:109 - Starting Text analysis for TEST001
+2025-06-19 15:18:31,845 - utils - INFO - logger.py:109 - Completed Text analysis for TEST001 in 0.07s
+2025-06-19 15:18:31,870 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:31,921 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:31,952 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:31,980 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:32,317 - utils - INFO - logger.py:109 - Loaded 2 URLs from /tmp/tmpvepy05ol.xlsx
+2025-06-19 15:18:32,338 - utils - INFO - logger.py:109 - Results saved to /tmp/tmp8vha_gyw/test_results.xlsx
+2025-06-19 15:18:32,346 - utils - INFO - logger.py:109 - Results saved to /tmp/tmp8vha_gyw/test_results.csv
+2025-06-19 15:18:32,386 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
+2025-06-19 15:18:32,395 - utils - INFO - logger.py:109 - Starting Text analysis for INTEGRATION001
+2025-06-19 15:18:32,399 - utils - INFO - logger.py:109 - Completed Text analysis for INTEGRATION001 in 0.00s
+2025-06-19 15:18:32,423 - utils - INFO - logger.py:109 - Loaded 12768 total stop words
